@@ -4,8 +4,8 @@ const About = () => {
   return (
     <>
       <Head>
-        <title>Ninja List | About</title>
-        <meta name="keywords" content="ninjas"/>
+        <title>Personal List | About</title>
+        <meta name="keywords" content="persons"/>
       </Head>
       <div>
         <h1>About</h1>
